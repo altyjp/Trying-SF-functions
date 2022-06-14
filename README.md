@@ -21,7 +21,7 @@ sf run function -l http://localhost:8080 -p '{}'
 サーバーを立ち上げたターミナルに戻り、ログの出力を確認してください。
 
 ## Apex script
-Functions と比較するした Apex ファイルです。
+Functions と比較した Apex ファイルです。  
 `sfdx force:apex:execute -f "file_name"` で実行してください。
 
 ### scripts/apex/processList.apex
