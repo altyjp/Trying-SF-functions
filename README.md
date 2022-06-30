@@ -2,6 +2,9 @@
 このコードは2022/7/1発表予定のSFDG発表で利用するプレゼンのソースコード部分になります。  
 全てローカルでの実行を前提に作成しておりますので、デプロイ等はできません。
 
+スライド：
+https://speakerdeck.com/altyjp/salesforce-functions-java-de-shi-zhuang-hadoubian-waruka
+
 # 内容物
 ## Functions
 以下のファイルは Functions 用です。  
